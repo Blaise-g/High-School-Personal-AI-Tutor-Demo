@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.stButton>button {
+    width: 100%;
+}
+
+/*.stTextInput>div>div>input {
+    background-color: #f0f2f6;
+}*/
+
+/*.stTextArea>div>div>textarea {
+    background-color: #f0f2f6;
+}*/
