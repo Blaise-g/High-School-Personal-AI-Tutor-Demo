@@ -31,8 +31,3 @@ An intelligent tutoring system designed specifically for Italian high school stu
 2. Install required dependencies: `pip install -r requirements.txt`
 3. Configure OpenAI API credentials
 4. Run the application: `streamlit run main.py`
-
-## Note
-This project demonstrates expertise in:
-- AI/ML integration in education
-- Full-stack development
