@@ -21,8 +21,7 @@ An intelligent tutoring system designed specifically for Italian high school stu
 
 ## Smart Features
 - RAG (Retrieval Augmented Generation) for context-aware responses
-- Spaced repetition algorithms for optimal learning
-- Token usage tracking and optimization
+- Spaced repetition algorithms for optimal flashcards learning
 - Feedback collection and analysis
 - Administrative dashboard for system monitoring
 
