@@ -1,4 +1,4 @@
-
+![Alt text](tutor-home.jpeg)
 # AI-Powered High School Tutor Platform
 
 ## Overview
