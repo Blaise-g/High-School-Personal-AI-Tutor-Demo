@@ -15,9 +15,9 @@ An intelligent tutoring system designed specifically for Italian high school stu
 ## Technical Stack
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **AI Integration**: OpenAI
+- **AI Integration**: OpenAI gpt-4o/gpt-4o-mini
 - **Data Storage**: SQLite
-- **RAG Pipeline**: Custom implementation for context-aware responses
+- **RAG Pipeline**: FAISS + OpenAI Embeddings
 
 ## Smart Features
 - RAG (Retrieval Augmented Generation) for context-aware responses
