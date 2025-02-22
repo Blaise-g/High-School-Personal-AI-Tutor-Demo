@@ -2,25 +2,22 @@
 # AI-Powered High School Tutor Platform
 
 ## Overview
-An intelligent tutoring system designed specifically for Italian high school students, leveraging AI to provide personalized learning experiences. The platform combines advanced language models with educational methodologies to create an interactive and engaging learning environment.
+An intelligent tutoring system designed specifically for Italian high school students, leveraging AI to provide personalized learning experiences based on uploaded study materials.
 
 ## Key Features
-- **Smart Diary Parsing**: text box where students can write their assignments and test dates which are then showed in the activities view
-- **AI Tutor**: Interactive chat-based tutoring with context-aware responses
-- **Smart Flashcards**: AI-generated study cards with spaced repetition
-- **Dynamic Quizzes**: Personalized question generation and explanations
-- **Study Planning**: AI-assisted activity planning and scheduling
-- **Progress Tracking**: Comprehensive analytics and learning progress monitoring
-- **Multi-Subject Support**: Adaptable to various high school subjects
-- **Difficulty Adjustment**: Content tailored to different class years and skill levels
+- **Smart Diary**: student can write their assignments and test dates which are then parsed and shown in the activities
+- **Daily Activities**: comprehensive daily activity dashboard with upcoming tests, assigments and flashcard review reminders
+- **Study Materials Upload**: student can upload their study materials under their topic and subject of interest
+- **AI Tutor**: Interactive chat-based tutoring with context-aware responses based on uploaded materials
+- **Smart Flashcards**: AI-generated flashcards with spaced repetition implementation
+- **Personalized Quizzes**: Mix of multiple choice and open ended question with personalized feedback and scoring
 
 ## Technical Stack
 - **Frontend**: Streamlit
 - **Backend**: Python
-- **AI Integration**: OpenAI GPT models
+- **AI Integration**: OpenAI
 - **Data Storage**: SQLite
 - **RAG Pipeline**: Custom implementation for context-aware responses
-- **User Authentication**: Secure login/registration system
 
 ## Smart Features
 - RAG (Retrieval Augmented Generation) for context-aware responses
@@ -28,13 +25,6 @@ An intelligent tutoring system designed specifically for Italian high school stu
 - Token usage tracking and optimization
 - Feedback collection and analysis
 - Administrative dashboard for system monitoring
-
-## Educational Approach
-The platform employs the Socratic method and modern pedagogical techniques to:
-- Foster deep understanding rather than mere memorization
-- Provide personalized learning paths
-- Adapt to individual learning styles
-- Offer immediate, constructive feedback
 
 ## Installation and Setup
 1. Clone the repository
